@@ -215,8 +215,6 @@ Syntax:sort
 
 The cal command is used to display the current month's calendar with the current date highlighted.
 
-Syntax: cal
-![421252378-7e44c971-f094-42b3-9d70-ce39cb540413](https://github.com/user-attachments/assets/adea2cd3-73c6-45fe-81cb-e77df458d14c)
 
 
 ### 27)	clear Command
